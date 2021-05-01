@@ -1,3 +1,10 @@
+# My Geeetech A10 Marlin Firmware
+
+This firmware is forked from Marlin 2.0 and has very few changes - namely:
+
+- BLTouch Enabled
+- Z-Safe Homing Enabled
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
