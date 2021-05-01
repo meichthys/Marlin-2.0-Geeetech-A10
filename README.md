@@ -4,6 +4,7 @@ This firmware is forked from Marlin 2.0 and has very few changes - namely:
 
 - BLTouch Enabled
 - Z-Safe Homing Enabled
+- PROBE_OFFSET_WIZARD Enabled
 
 # Marlin 3D Printer Firmware
 
